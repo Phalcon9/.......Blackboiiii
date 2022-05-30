@@ -6,7 +6,7 @@ const AddBlogInput = (props) => {
     <div className='formInput'>
         <label>{label}</label>
         <input {...inputProps} onChange={onChange} />
-        {/* <textarea {...inputProps} onChange={onChange} /> */}
+        {<textarea {...inputProps} onChange={onChange} />}
     </div>
   )
 }
