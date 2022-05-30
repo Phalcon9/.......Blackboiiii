@@ -14,14 +14,14 @@ const AddBlog = () => {
       placeholder:"Title",
       label:"Title"
     }
-    ,
-    {
-      id:2,
-      name: "AboutBlog",
-      type: "text",
-      placeholder:"Message",
-      label:"Message"
-    }
+//     ,
+//     {
+//       id:2,
+//       name: "AboutBlog",
+//       type: "text",
+//       placeholder:"Message",
+//       label:"Message"
+//     }
   ]
   // const inputs2 =[
   //   {
